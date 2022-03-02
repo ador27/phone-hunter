@@ -1,6 +1,21 @@
-#header{
+/* #header{
     padding-top: 25px;
 }
 #search{
     padding-top: 40px;
+} */
+
+.website-title{
+    font-size: 60px;
+    font-weight: 700;
+    color: #073e6b;
+    margin: 30px;
+}
+
+#empty-error{
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    padding: 5px;
+    display: none;
 }
